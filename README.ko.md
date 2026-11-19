@@ -6,22 +6,23 @@
 
 고려대학교 산업경영공학부에서 공부하고, 데이터 분석 학술동아리 **SDA를 창립해 회장으로 운영**하고 있습니다. 분석 프로젝트와 커뮤니티 운영, AI 보조 도구 제작을 함께 경험해왔습니다.
 
-[전체 포트폴리오](https://github.com/jameshui0228/data-analysis-portfolio) · [SDA 홈페이지](https://ku-sda.com) · [이메일](mailto:jameshui0228@gmail.com)
+[전체 포트폴리오](https://github.com/jameshui0228/data-analysis-portfolio) · [Daily Friends (Live)](https://daily-friends-web.vercel.app) · [SDA 홈페이지](https://ku-sda.com) · [이메일](mailto:jameshui0228@gmail.com)
 
 ## 대표 작업
 
 | 작업 | 무엇을 했나 | 보러 가기 |
 |---|---|---|
-| **데이터 기반 후보 평가** | 여러 출처의 데이터를 연결하고 모델 검증·실행 제약을 반영해 최종 제안서 작성 | [SSG 분석 사례](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/kbo-foreign-player-recruitment.ko.md) |
-| **SDA 창립·운영** | 학습 커뮤니티를 만들고 세션·프로젝트·기록 체계를 운영, 공식 홈페이지 구축 | [운영·웹사이트 사례](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/sda-leadership.ko.md) |
-| **AI 조사 워크플로** | 정보의 출처·가정·반대 근거와 다음 행동을 관리하는 Codex 플러그인 제작 | [도구와 검증](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/startup-intelligence.ko.md) |
+| **데일리 프렌즈 (AI 페르소나 웹 앱)** | 근거 추적형 LLM 기억 추출, 한국어 구어체 화법 엔진, PostgreSQL RLS·뷰 마스킹 및 126개 테스트 검증·라이브 배포 (3인 팀) | [사례 요약](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/daily-friends.ko.md) · [라이브 서비스](https://daily-friends-web.vercel.app) |
+| **AI 조사 워크플로** | 정보의 출처·가정·반대 근거와 다음 행동을 관리하는 Codex 플러그인 제작 (586개 테스트 검증) | [도구와 검증](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/startup-intelligence.ko.md) |
+| **SDA 창립·운영** | 학습 커뮤니티를 만들고 세션·프로젝트·기록 체계를 운영, Next.js·Supabase 공식 홈페이지 구축 | [운영·웹사이트 사례](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/sda-leadership.ko.md) · [ku-sda.com](https://ku-sda.com) |
+| **데이터 기반 후보·역량 평가** | 여러 출처의 데이터를 연결하고 모델 검증·실행 제약을 반영해 최종 제안서 및 스카우팅 브리프 작성 | [SSG 분석 사례](https://github.com/jameshui0228/data-analysis-portfolio/blob/main/projects/kbo-foreign-player-recruitment.ko.md) · [MLB 저장소](https://github.com/jameshui0228/mlb-white-sox-scouting) |
 
 ## 주로 하는 일
 
-- **분석:** Python, Pandas, NumPy, scikit-learn, 예측 모델 비교와 검증
-- **도구 제작:** Python·SQLite 기반 조사 도구, AI 보조 개발
-- **웹·운영:** Next.js, TypeScript, Supabase, Vercel, 콘텐츠·회원 운영 체계
-- **협업:** 문제 정의, 역할 조율, 보고서·발표 자료, 활동 기록과 인수인계
+- **AI·LLM 서비스:** Vertex AI (Gemini), OpenAI API, JSON Schema 근거 검증, 한국어 구어체 화법 분석, 에이전트 CLI
+- **분석·모델링:** Python, Pandas, NumPy, PyTorch, scikit-learn, CatBoost/LightGBM, 그룹·시계열 검증
+- **웹·DB·운영:** Next.js, TypeScript, Supabase (PostgreSQL·Auth·RLS·Edge Functions), SQLite, Vercel, 자동화 테스트
+- **협업:** 문제 정의, 역할 조율, 보고서·발표 자료, 보안 감사, 활동 기록과 인수인계
 
 모델의 높은 점수뿐 아니라 **데이터의 출처, 검증 조건, 결과의 한계**도 함께 설명하려고 합니다. 팀 성과와 개인 기여를 구분하고, AI 보조 도구를 활용한 작업은 실제 산출물과 검증 기록으로 보여드립니다.
 
